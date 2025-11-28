@@ -1,0 +1,14 @@
+# Copyright (c) 2025 Rafik Hamza, Ph.D.
+# All rights reserved.
+#
+# Submission to: Multimedia Tools and Applications (MTAP), 14 June, 2025
+# Paper Title: A Robust Hybrid Image Encryption Framework based on Transform and Spatial Domain Processing with High-Dimensional Chaotic Maps
+# Date of last edit: November 28, 2025
+#
+# Description:
+# Python package requirements for the clean consolidated version.
+
+numpy>=1.21.0
+Pillow>=9.0.0
+matplotlib>=3.5.0
+blake3>=0.3.0
