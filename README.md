@@ -1,12 +1,7 @@
-# Copyright (c) 2025 Rafik Hamza, Ph.D.
-# All rights reserved.
-#
 # Submission to: Multimedia Tools and Applications (MTAP), 14 June, 2025
-# Paper Title: A Robust Hybrid Image Encryption Framework based on Transform and Spatial Domain Processing with High-Dimensional Chaotic Maps
-# Date of last edit: November 28, 2025
-#
-# Description:
-# README file for the clean consolidated version of the MTAP paper implementation.
+ Paper Title: A Robust Hybrid Image Encryption Framework based on Transform and Spatial Domain Processing with High-Dimensional Chaotic Maps
+ Date of last edit: November 28, 2025
+
 
 # A Robust Hybrid Image Encryption Framework
 
@@ -197,12 +192,12 @@ This code is provided for academic and research purposes only. Commercial use re
 ## Contact
 
 Rafik Hamza, Ph.D.
-Email: [Contact information for academic correspondence]
+https://tiu-iis.org/rafik-hamza/
 
-## Acknowledgments
-
-This work was supported by [funding sources, if applicable].
 
 ---
 
+
 *Date of last edit: November 28, 2025*
+# Copyright (c) 2025 Rafik Hamza, Ph.D. https://tiu-iis.org/rafik-hamza/
+# All rights reserved.
