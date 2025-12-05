@@ -1,6 +1,6 @@
-# Submission to: Multimedia Tools and Applications (MTAP), 14 June, 2025
+# Submission to: Multimedia Tools and Applications (MTAP), 
  Paper Title: A Robust Hybrid Image Encryption Framework based on Transform and Spatial Domain Processing with High-Dimensional Chaotic Maps
- Date of last edit: November 28, 2025
+ Date of last edit: Dec 05, 2025
 
 
 # A Robust Hybrid Image Encryption Framework
@@ -201,3 +201,4 @@ https://tiu-iis.org/rafik-hamza/
 *Date of last edit: November 28, 2025*
 # Copyright (c) 2025 Rafik Hamza, Ph.D. https://tiu-iis.org/rafik-hamza/
 # All rights reserved.
+
